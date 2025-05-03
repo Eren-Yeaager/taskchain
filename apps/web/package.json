@@ -13,6 +13,7 @@
     "next": "15.3.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "shared": "file:../../packages/shared",
     "viem": "^2.28.0",
     "wagmi": "^2.15.0"
   },
